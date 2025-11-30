@@ -26,3 +26,8 @@ Por favor lee las normas de estilo antes de enviar cambios.
 ## Colaboraciones
 Para colaborar, envía un Pull Request.
 
+## Tecnologías y Herramientas
+*   **Git:** Control de versiones.
+*   **GitHub:** Alojamiento remoto.
+*   **Markdown:** Formato de documentación.
+*   **VS Code / Nano:** Editor de código.
