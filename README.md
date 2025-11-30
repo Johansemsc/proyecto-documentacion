@@ -18,3 +18,5 @@ sirviendo como proyecto para demostrar el dominio del control de versiones con G
 *   [CSS Avanzado](frontend/css-avanzado.md)
 *   [JavaScript Moderno](frontend/javascript-moderno.md)
 *   [Frameworks](frontend/frameworks.md)
+## Colaboraciones
+Para colaborar, envía un Pull Request.
