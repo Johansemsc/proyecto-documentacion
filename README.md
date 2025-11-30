@@ -22,3 +22,7 @@ sirviendo como proyecto para demostrar el dominio del control de versiones con G
 ## Contribuciones
 Las contribuciones están abiertas a cualquier desarrollador.
 Por favor lee las normas de estilo antes de enviar cambios.
+
+## Colaboraciones
+Para colaborar, envía un Pull Request.
+
